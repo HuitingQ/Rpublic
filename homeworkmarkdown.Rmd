@@ -1,0 +1,13 @@
+---
+title: "Datasciencehomework"
+author: "Huiting"
+date: "2023-12-07"
+output: word_document
+---
+
+
+## This is a markdown file
+```{r}
+print ("Hello World")
+```
+
